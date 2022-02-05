@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me:  
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamal.shahverdiev@gmail.com?subject=[GitHub]%20Personal%20email)<br>
-![Skype](https://img.shields.io/badge/jamalshahverdiev-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) <br>
+[![Skype](https://img.shields.io/badge/jamalshahverdiev-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype:<jamalshahverdiev>?call) <br>
 <br>
 
 ### Information about me: 
