@@ -62,6 +62,24 @@
 
 ---
 
+### Online Presence
+
+<!-- markdownlint-disable MD033 -->
+<details>
+  <summary>📊 Github Stats</summary><br>
+  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+</details>
+
+<details>
+  <summary>&#11088 Language Stats</summary><br>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&theme=algolia&langs_count=15&layout=compact" />
+</details>
+<!-- markdownlint-enable MD033 -->
+
+---
+
+
+
 ![Jamal Shahverdiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&show_icons=true&theme=onedark)<br>
 
 
