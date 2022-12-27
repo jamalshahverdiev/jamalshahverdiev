@@ -5,8 +5,20 @@
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://intellipaat.com/blog/wp-content/uploads/2017/11/DevOps-02.jpg" width="497" height="264">
 
 ---
-
 <br>
+
+### 📚 Latest Blog Posts
+
+<!-- BLOG:START -->
+- [BanzaiCloud Bank-Vaults](https://jamalshahverdiev.medium.com/banzaicloud-bank-vaults-a98fb78eacc6)
+- [Hashicorp Vault restart pods when key changed in Kubernetes](https://jamalshahverdiev.medium.com/hashicorp-vault-restart-pods-when-key-changed-in-kubernetes-b8926a34b3b4)
+- [ArgoCD Image updater scale Up/Down by release date time](https://jamalshahverdiev.medium.com/argocd-image-updater-scale-up-down-by-release-date-time-67c5bce3a233)
+- [Automate DB access via tunnel with GIT Pull Requests in Google Cloud](https://jamalshahverdiev.medium.com/automate-db-access-via-tunnel-with-git-pull-requests-in-google-cloud-30cfc32f0902)
+- [Detect rogue in Cisco switches with Python](https://jamalshahverdiev.medium.com/detect-rogue-in-cisco-switches-with-python-b677883ba41c)
+<!-- BLOG:END -->
+➡️ [more posts...](https://jamalshahverdiev.medium.com/)
+
+---
 
 - 🎥 - [YouTube](https://www.youtube.com/c/JamalShahverdiev)
 
