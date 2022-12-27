@@ -5,7 +5,6 @@
 <img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://intellipaat.com/blog/wp-content/uploads/2017/11/DevOps-02.jpg" width="497" height="264">
 
 ---
-<br>
 
 ### 📚 Latest Blog Posts
 
