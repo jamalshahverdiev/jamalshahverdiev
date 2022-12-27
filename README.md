@@ -109,6 +109,8 @@
 [<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/JamalShahverdiev)
 [<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://jamalshahverdiev.medium.com/)
 
+---
+
 ### 📫 How to reach me:  
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamal.shahverdiev@gmail.com?subject=[GitHub]%20Personal%20email)<br>
 [![Skype](https://img.shields.io/badge/jamal.shahverdiev-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype:<jamal.shahverdiev>?call) <br>
