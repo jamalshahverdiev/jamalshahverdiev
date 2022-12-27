@@ -20,6 +20,33 @@
 
 ---
 
+### Open Source Projects
+
+<details>
+  <summary>Bash </summary>
+    <li><a href="https://github.com/jamalshahverdiev/aws-cli-bash">AWS CLI BASH Codes</a></li>
+    <li><a href="https://github.com/jamalshahverdiev/gcp-bash-codes">GCP BASH Code files</a></li>
+    <li><a href="https://github.com/jamalshahverdiev/bash-nextgen">Next generation BASH code files</a></li>
+</details>
+
+<details>
+  <summary>Python </summary>
+    <li><a href="https://github.com/jamalshahverdiev/python-general-public-codes">Python codes writeen for multiple projects</a></li>
+    <li><a href="https://github.com/jamalshahverdiev/istio-examples/tree/main/JWT">JWT Implementation in Istio</a></li>
+</details>
+
+<details>
+  <summary>PowerShell </summary>
+  <li><a href="https://github.com/jamalshahverdiev/azure-powershell">Azure Powershell code files</a></li>
+  <li><a href="https://github.com/jamalshahverdiev/arm-powershell-codes">ARM Teamplates with PowerShell</a></li>
+</details>
+
+---
+
+
+
+
+
 - 🎥 - [YouTube](https://www.youtube.com/c/JamalShahverdiev)
 
 ![Jamal Shahverdiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&show_icons=true&theme=onedark)<br>
