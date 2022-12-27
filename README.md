@@ -1,8 +1,6 @@
  ## Hi there, I am Jamal Shahverdiev 👋
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Site+Reliability+Engineer;DevOps+Engineer;)](https://git.io/typing-svg)
- 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://intellipaat.com/blog/wp-content/uploads/2017/11/DevOps-02.jpg" width="497" height="264">
 
 ---
 
