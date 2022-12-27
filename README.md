@@ -43,10 +43,24 @@
 ---
 
 
+### Video Content
 
+<details>
+  <summary>📺 Site Reliability Engineer</summary>
 
+<!-- YOUTUBE:START -->
+- [Hashicorp Vault Restart deployment when secret value changed](https://www.youtube.com/watch?v=nUtt3hi-l-U&t=384s)
+- [Progressive Delivery, Canary deployment with Flagger and Istio](https://www.youtube.com/watch?v=Ng-W_u1pwIc&t=113s)
+- [Gitlab CI/CD for monorepo with automation of Pipeline generator to microservices](https://www.youtube.com/watch?v=S-lOoHgwu88&t=48s)
+- [SSH Jumper for databases with Automated GIT way](https://www.youtube.com/watch?v=xG-qTfPQ1OQ&t=39s)
+- [HaProxy external-check functionality](https://www.youtube.com/watch?v=FhHiBNf1ceA&t=6s)
+- [Resolve GRPC issue with ISTIO in Kubernetes](youtube.com/watch?v=JDdQ8rwQ90k&t=4s)
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/JamalShahverdiev)
 
-- 🎥 - [YouTube](https://www.youtube.com/c/JamalShahverdiev)
+</details>
+
+---
 
 ![Jamal Shahverdiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&show_icons=true&theme=onedark)<br>
 
