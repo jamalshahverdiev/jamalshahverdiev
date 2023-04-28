@@ -7,6 +7,7 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Kubernetes Python operator DB Insert/Update/Delete by CRD](https://jamalshahverdiev.medium.com/kubernetes-python-operator-db-insert-update-delete-by-crd-dd52c25cee36)
 - [BanzaiCloud Bank-Vaults](https://jamalshahverdiev.medium.com/banzaicloud-bank-vaults-a98fb78eacc6)
 - [Hashicorp Vault restart pods when key changed in Kubernetes](https://jamalshahverdiev.medium.com/hashicorp-vault-restart-pods-when-key-changed-in-kubernetes-b8926a34b3b4)
 - [ArgoCD Image updater scale Up/Down by release date time](https://jamalshahverdiev.medium.com/argocd-image-updater-scale-up-down-by-release-date-time-67c5bce3a233)
