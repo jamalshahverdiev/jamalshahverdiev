@@ -19,18 +19,23 @@
 ---
 
 ### Open Source Projects
+<details>
+  <summary>GoLang </summary>
+    <li><a href="https://github.com/jamalshahverdiev/wrapter">Wrapper for terraform</a></li>
+    <li><a href="https://github.com/platacard/terraform-provider-superset">Terraform provider for Apache Superset</a></li>
+</details>
+
+<details>
+  <summary>Python </summary>
+    <li><a href="https://github.com/jamalshahverdiev/python-general-public-codes">Python codes written for multiple projects</a></li>
+    <li><a href="https://github.com/jamalshahverdiev/istio-examples/tree/main/JWT">JWT Implementation in Istio</a></li>
+</details>
 
 <details>
   <summary>Bash </summary>
     <li><a href="https://github.com/jamalshahverdiev/aws-cli-bash">AWS CLI BASH Codes</a></li>
     <li><a href="https://github.com/jamalshahverdiev/gcp-bash-codes">GCP BASH Code files</a></li>
     <li><a href="https://github.com/jamalshahverdiev/bash-nextgen">Next generation BASH code files</a></li>
-</details>
-
-<details>
-  <summary>Python </summary>
-    <li><a href="https://github.com/jamalshahverdiev/python-general-public-codes">Python codes writeen for multiple projects</a></li>
-    <li><a href="https://github.com/jamalshahverdiev/istio-examples/tree/main/JWT">JWT Implementation in Istio</a></li>
 </details>
 
 <details>
