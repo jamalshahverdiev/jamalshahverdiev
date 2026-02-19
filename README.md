@@ -21,6 +21,7 @@
 ### Open Source Projects
 <details>
   <summary>GoLang </summary>
+    <li><a href="https://github.com/jamalshahverdiev/kube-freeze-operator">Kubernetes Freeze Operator — manage change freeze windows in K8s</a></li>
     <li><a href="https://github.com/jamalshahverdiev/wrapter">Wrapper for terraform</a></li>
     <li><a href="https://github.com/platacard/terraform-provider-superset">Terraform provider for Apache Superset</a></li>
 </details>
@@ -41,7 +42,7 @@
 <details>
   <summary>PowerShell </summary>
   <li><a href="https://github.com/jamalshahverdiev/azure-powershell">Azure Powershell code files</a></li>
-  <li><a href="https://github.com/jamalshahverdiev/arm-powershell-codes">ARM Teamplates with PowerShell</a></li>
+  <li><a href="https://github.com/jamalshahverdiev/arm-powershell-codes">ARM Templates with PowerShell</a></li>
 </details>
 
 ---
@@ -58,7 +59,7 @@
 - [Gitlab CI/CD for monorepo with automation of Pipeline generator to microservices](https://www.youtube.com/watch?v=S-lOoHgwu88&t=48s)
 - [SSH Jumper for databases with Automated GIT way](https://www.youtube.com/watch?v=xG-qTfPQ1OQ&t=39s)
 - [HaProxy external-check functionality](https://www.youtube.com/watch?v=FhHiBNf1ceA&t=6s)
-- [Resolve GRPC issue with ISTIO in Kubernetes](youtube.com/watch?v=JDdQ8rwQ90k&t=4s)
+- [Resolve GRPC issue with ISTIO in Kubernetes](https://www.youtube.com/watch?v=JDdQ8rwQ90k&t=4s)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/JamalShahverdiev)
 
@@ -71,7 +72,7 @@
 <!-- markdownlint-disable MD033 -->
 <details>
   <summary>📊 Github Stats</summary><br>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+  <img alt="Jamal Shahverdiev Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 </details>
 
 <details>
@@ -85,6 +86,7 @@
 ### Languages and Tools:
 
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width:40px; height:40px"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:40px; height:40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"  style="width:40px; height:40px"/>         
@@ -95,10 +97,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width:40px; height:40px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"style="width:40px; height:40px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="width:40px; height:40px"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg"  style="width:40px; height:40px"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="width:40px; height:40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:40px; height:40px"/>         
@@ -118,5 +120,5 @@
 
 ### 📫 How to reach me:  
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamal.shahverdiev@gmail.com?subject=[GitHub]%20Personal%20email)
-[![Skype](https://img.shields.io/badge/jamal.shahverdiev-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](skype:<jamal.shahverdiev>?call) <br>
+[![Teams](https://img.shields.io/badge/jamal.shahverdiev-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=jamal.shahverdiev) <br>
 <br>
