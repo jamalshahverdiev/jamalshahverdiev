@@ -1,6 +1,18 @@
- ## Hi there, I am Jamal Shahverdiev 👋
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Site+Reliability+Engineer;DevOps+Engineer;)](https://git.io/typing-svg)
+<!-- markdownlint-disable MD033 MD041 -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Jamal%20Shahverdiev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20Kubernetes%20%C2%B7%20Go&descSize=18&descAlignY=55" width="100%" alt="header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Site+Reliability+Engineer;DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+Go;Automate+all+the+things!)](https://www.youtube.com/c/JamalShahverdiev)
+
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/jamalshahverdiev)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>](https://www.youtube.com/c/JamalShahverdiev)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>](https://jamalshahverdiev.medium.com/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:jamal.shahverdiev@gmail.com?subject=[GitHub]%20Personal%20email)
+[<img src="https://custom-icon-badges.demolab.com/badge/Teams-6264A7?style=for-the-badge&logo=teams&logoColor=white" alt="Teams"/>](https://teams.microsoft.com/l/chat/0/0?users=jamal.shahverdiev)
+<img src="https://komarev.com/ghpvc/?username=jamalshahverdiev&style=for-the-badge&color=blue" alt="Profile views"/>
+
+</div>
 
 ---
 
@@ -18,40 +30,115 @@
 
 ---
 
-### Open Source Projects
-<details>
-  <summary>GoLang </summary>
-    <li><a href="https://github.com/jamalshahverdiev/kube-freeze-operator">Kubernetes Freeze Operator — manage change freeze windows in K8s</a></li>
-    <li><a href="https://github.com/jamalshahverdiev/wrapter">Wrapper for terraform</a></li>
-    <li><a href="https://github.com/platacard/terraform-provider-superset">Terraform provider for Apache Superset</a></li>
-</details>
+### 🚀 Open Source Projects
 
-<details>
-  <summary>Python </summary>
-    <li><a href="https://github.com/jamalshahverdiev/python-general-public-codes">Python codes written for multiple projects</a></li>
-    <li><a href="https://github.com/jamalshahverdiev/istio-examples/tree/main/JWT">JWT Implementation in Istio</a></li>
-</details>
+#### 🐹 GoLang
 
-<details>
-  <summary>Bash </summary>
-    <li><a href="https://github.com/jamalshahverdiev/aws-cli-bash">AWS CLI BASH Codes</a></li>
-    <li><a href="https://github.com/jamalshahverdiev/gcp-bash-codes">GCP BASH Code files</a></li>
-    <li><a href="https://github.com/jamalshahverdiev/bash-nextgen">Next generation BASH code files</a></li>
-</details>
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/pgpilot-operator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=pgpilot-operator&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true" width="49%" alt="pgpilot-operator">
+    </picture>
+  </a>
+  <a href="https://github.com/jamalshahverdiev/freeswitch-iac-platform">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=freeswitch-iac-platform&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true" width="49%" alt="freeswitch-iac-platform">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/terraform-provider-freeswitch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=terraform-provider-freeswitch&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true" width="49%" alt="terraform-provider-freeswitch">
+    </picture>
+  </a>
+  <a href="https://github.com/jamalshahverdiev/kube-freeze-operator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=kube-freeze-operator&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true" width="49%" alt="kube-freeze-operator">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/wrapter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=wrapter&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=wrapter&hide_border=true" width="49%" alt="wrapter">
+    </picture>
+  </a>
+  <a href="https://github.com/platacard/terraform-provider-superset">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=platacard&repo=terraform-provider-superset&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=platacard&repo=terraform-provider-superset&hide_border=true" width="49%" alt="terraform-provider-superset">
+    </picture>
+  </a>
+</p>
 
-<details>
-  <summary>PowerShell </summary>
-  <li><a href="https://github.com/jamalshahverdiev/azure-powershell">Azure Powershell code files</a></li>
-  <li><a href="https://github.com/jamalshahverdiev/arm-powershell-codes">ARM Templates with PowerShell</a></li>
-</details>
+#### 🐍 Python
+
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/python-general-public-codes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=python-general-public-codes&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true" width="49%" alt="python-general-public-codes">
+    </picture>
+  </a>
+  <a href="https://github.com/jamalshahverdiev/istio-examples">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=istio-examples&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=istio-examples&hide_border=true" width="49%" alt="istio-examples">
+    </picture>
+  </a>
+</p>
+
+#### 🖥️ Bash
+
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/aws-cli-bash">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=aws-cli-bash&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true" width="49%" alt="aws-cli-bash">
+    </picture>
+  </a>
+  <a href="https://github.com/jamalshahverdiev/gcp-bash-codes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=gcp-bash-codes&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true" width="49%" alt="gcp-bash-codes">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/bash-nextgen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=bash-nextgen&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=bash-nextgen&hide_border=true" width="49%" alt="bash-nextgen">
+    </picture>
+  </a>
+</p>
+
+#### ⚡ PowerShell
+
+<p align="center">
+  <a href="https://github.com/jamalshahverdiev/azure-powershell">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=azure-powershell&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=azure-powershell&hide_border=true" width="49%" alt="azure-powershell">
+    </picture>
+  </a>
+  <a href="https://github.com/jamalshahverdiev/arm-powershell-codes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=arm-powershell-codes&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true" width="49%" alt="arm-powershell-codes">
+    </picture>
+  </a>
+</p>
 
 ---
 
-
-### Video Content
-
-<details>
-  <summary>📺 Site Reliability Engineer</summary>
+### 📺 Video Content
 
 <!-- YOUTUBE:START -->
 - [Hashicorp Vault Restart deployment when secret value changed](https://www.youtube.com/watch?v=nUtt3hi-l-U&t=384s)
@@ -63,62 +150,60 @@
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/JamalShahverdiev)
 
-</details>
-
 ---
 
-### Online Presence
+### 📊 GitHub Stats
 
-<!-- markdownlint-disable MD033 -->
-<details>
-  <summary>📊 Github Stats</summary><br>
-  <img alt="Jamal Shahverdiev Github Stats" src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&hide_border=true" height="180" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&langs_count=10&layout=compact&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&langs_count=10&layout=compact&hide_border=true" height="180" alt="Top languages">
+  </picture>
+</p>
 
-<details>
-  <summary>&#11088 Language Stats</summary><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&theme=algolia&langs_count=15&layout=compact" />
-</details>
-<!-- markdownlint-enable MD033 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jamalshahverdiev&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=jamalshahverdiev&hide_border=true" alt="GitHub streak">
+  </picture>
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jamalshahverdiev&theme=github-compact&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamalshahverdiev&theme=minimal&hide_border=true" width="96%" alt="Contribution graph">
+  </picture>
+</p>
 
-### Languages and Tools:
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="width:40px; height:40px"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:40px; height:40px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"  style="width:40px; height:40px"/>         
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/helm.svg"  style="width:40px; height:40px"/>
-<img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg"  style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width:40px; height:40px"/>              
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="width:40px; height:40px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width:40px; height:40px"/>         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"style="width:40px; height:40px"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="width:40px; height:40px"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:40px; height:40px"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg"  style="width:40px; height:40px"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="width:40px; height:40px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="width:40px; height:40px"/>         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width:40px; height:40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamalshahverdiev/jamalshahverdiev/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/jamalshahverdiev/jamalshahverdiev/output/github-snake.svg" alt="Contribution snake">
+  </picture>
 </p>
 
 ---
 
-### Connect with me
+### 🛠️ Languages and Tools
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jamalshahverdiev)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/JamalShahverdiev)
-[<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://jamalshahverdiev.medium.com/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,bash,kubernetes,docker,ansible,terraform,jenkins,gitlab,githubactions,aws,gcp,azure,nginx,mysql,postgres,mongodb,nodejs,git,linux&perline=10" alt="Tools"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
-### 📫 How to reach me:  
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamal.shahverdiev@gmail.com?subject=[GitHub]%20Personal%20email)
-[![Teams](https://img.shields.io/badge/jamal.shahverdiev-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=jamal.shahverdiev) <br>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer"/>
+<!-- markdownlint-enable MD033 MD041 -->
