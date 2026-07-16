@@ -35,105 +35,40 @@
 #### 🐹 GoLang
 
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/pgpilot-operator">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-pgpilot-operator-dark.svg">
-      <img src="./profile/pin-pgpilot-operator.svg" width="49%" alt="pgpilot-operator">
-    </picture>
-  </a>
-  <a href="https://github.com/jamalshahverdiev/freeswitch-iac-platform">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-freeswitch-iac-platform-dark.svg">
-      <img src="./profile/pin-freeswitch-iac-platform.svg" width="49%" alt="freeswitch-iac-platform">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/pgpilot-operator"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-pgpilot-operator-dark.svg"><img src="./profile/pin-pgpilot-operator.svg" width="49%" alt="pgpilot-operator"></picture></a>
+  <a href="https://github.com/jamalshahverdiev/freeswitch-iac-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-freeswitch-iac-platform-dark.svg"><img src="./profile/pin-freeswitch-iac-platform.svg" width="49%" alt="freeswitch-iac-platform"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/terraform-provider-freeswitch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-freeswitch-dark.svg">
-      <img src="./profile/pin-terraform-provider-freeswitch.svg" width="49%" alt="terraform-provider-freeswitch">
-    </picture>
-  </a>
-  <a href="https://github.com/jamalshahverdiev/kube-freeze-operator">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-kube-freeze-operator-dark.svg">
-      <img src="./profile/pin-kube-freeze-operator.svg" width="49%" alt="kube-freeze-operator">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/terraform-provider-freeswitch"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-freeswitch-dark.svg"><img src="./profile/pin-terraform-provider-freeswitch.svg" width="49%" alt="terraform-provider-freeswitch"></picture></a>
+  <a href="https://github.com/jamalshahverdiev/kube-freeze-operator"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-kube-freeze-operator-dark.svg"><img src="./profile/pin-kube-freeze-operator.svg" width="49%" alt="kube-freeze-operator"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/wrapter">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-wrapter-dark.svg">
-      <img src="./profile/pin-wrapter.svg" width="49%" alt="wrapter">
-    </picture>
-  </a>
-  <a href="https://github.com/platacard/terraform-provider-superset">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-superset-dark.svg">
-      <img src="./profile/pin-terraform-provider-superset.svg" width="49%" alt="terraform-provider-superset">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/wrapter"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-wrapter-dark.svg"><img src="./profile/pin-wrapter.svg" width="49%" alt="wrapter"></picture></a>
+  <a href="https://github.com/platacard/terraform-provider-superset"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-superset-dark.svg"><img src="./profile/pin-terraform-provider-superset.svg" width="49%" alt="terraform-provider-superset"></picture></a>
 </p>
 
 #### 🐍 Python
 
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/python-general-public-codes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-python-general-public-codes-dark.svg">
-      <img src="./profile/pin-python-general-public-codes.svg" width="49%" alt="python-general-public-codes">
-    </picture>
-  </a>
-  <a href="https://github.com/jamalshahverdiev/istio-examples">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-istio-examples-dark.svg">
-      <img src="./profile/pin-istio-examples.svg" width="49%" alt="istio-examples">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/python-general-public-codes"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-python-general-public-codes-dark.svg"><img src="./profile/pin-python-general-public-codes.svg" width="49%" alt="python-general-public-codes"></picture></a>
+  <a href="https://github.com/jamalshahverdiev/istio-examples"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-istio-examples-dark.svg"><img src="./profile/pin-istio-examples.svg" width="49%" alt="istio-examples"></picture></a>
 </p>
 
 #### 🖥️ Bash
 
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/aws-cli-bash">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-aws-cli-bash-dark.svg">
-      <img src="./profile/pin-aws-cli-bash.svg" width="49%" alt="aws-cli-bash">
-    </picture>
-  </a>
-  <a href="https://github.com/jamalshahverdiev/gcp-bash-codes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-gcp-bash-codes-dark.svg">
-      <img src="./profile/pin-gcp-bash-codes.svg" width="49%" alt="gcp-bash-codes">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/aws-cli-bash"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-aws-cli-bash-dark.svg"><img src="./profile/pin-aws-cli-bash.svg" width="49%" alt="aws-cli-bash"></picture></a>
+  <a href="https://github.com/jamalshahverdiev/gcp-bash-codes"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-gcp-bash-codes-dark.svg"><img src="./profile/pin-gcp-bash-codes.svg" width="49%" alt="gcp-bash-codes"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/bash-nextgen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-bash-nextgen-dark.svg">
-      <img src="./profile/pin-bash-nextgen.svg" width="49%" alt="bash-nextgen">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/bash-nextgen"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-bash-nextgen-dark.svg"><img src="./profile/pin-bash-nextgen.svg" width="49%" alt="bash-nextgen"></picture></a>
 </p>
 
 #### ⚡ PowerShell
 
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/azure-powershell">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-azure-powershell-dark.svg">
-      <img src="./profile/pin-azure-powershell.svg" width="49%" alt="azure-powershell">
-    </picture>
-  </a>
-  <a href="https://github.com/jamalshahverdiev/arm-powershell-codes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-arm-powershell-codes-dark.svg">
-      <img src="./profile/pin-arm-powershell-codes.svg" width="49%" alt="arm-powershell-codes">
-    </picture>
-  </a>
+  <a href="https://github.com/jamalshahverdiev/azure-powershell"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-azure-powershell-dark.svg"><img src="./profile/pin-azure-powershell.svg" width="49%" alt="azure-powershell"></picture></a>
+  <a href="https://github.com/jamalshahverdiev/arm-powershell-codes"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-arm-powershell-codes-dark.svg"><img src="./profile/pin-arm-powershell-codes.svg" width="49%" alt="arm-powershell-codes"></picture></a>
 </p>
 
 ---
