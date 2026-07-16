@@ -109,6 +109,19 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/default/0-profile-details.svg" width="96%" alt="Profile details">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img src="./profile-summary-card-output/default/4-productive-time.svg" width="49%" alt="Commits per hour">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jamalshahverdiev&theme=github-compact&hide_border=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamalshahverdiev&theme=minimal&hide_border=true" width="96%" alt="Contribution graph">
   </picture>
@@ -128,6 +141,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="./metrics.svg" width="70%" alt="Metrics dashboard">
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -145,6 +162,15 @@
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random dev quote">
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer"/>
