@@ -116,6 +116,13 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="./profile-3d-contrib/profile-season-animate.svg" width="96%" alt="3D contribution graph">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamalshahverdiev/jamalshahverdiev/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/jamalshahverdiev/jamalshahverdiev/output/github-snake.svg" alt="Contribution snake">
   </picture>
