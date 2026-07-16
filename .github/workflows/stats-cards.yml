@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true
+          options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true&description_lines_count=2
           path: profile/pin-pgpilot-operator.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true
+          options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true&description_lines_count=2
           path: profile/pin-freeswitch-iac-platform.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -52,7 +52,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true
+          options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true&description_lines_count=2
           path: profile/pin-terraform-provider-freeswitch.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -60,7 +60,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true
+          options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true&description_lines_count=2
           path: profile/pin-kube-freeze-operator.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -68,7 +68,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=wrapter&hide_border=true
+          options: username=jamalshahverdiev&repo=wrapter&hide_border=true&description_lines_count=2
           path: profile/pin-wrapter.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -76,7 +76,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=platacard&repo=terraform-provider-superset&hide_border=true
+          options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2
           path: profile/pin-terraform-provider-superset.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -84,7 +84,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true
+          options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true&description_lines_count=2
           path: profile/pin-python-general-public-codes.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -92,7 +92,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=istio-examples&hide_border=true
+          options: username=jamalshahverdiev&repo=istio-examples&hide_border=true&description_lines_count=2
           path: profile/pin-istio-examples.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -100,7 +100,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true
+          options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true&description_lines_count=2
           path: profile/pin-aws-cli-bash.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -108,7 +108,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true
+          options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true&description_lines_count=2
           path: profile/pin-gcp-bash-codes.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -116,7 +116,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true
+          options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true&description_lines_count=2
           path: profile/pin-bash-nextgen.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -124,7 +124,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true
+          options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true&description_lines_count=2
           path: profile/pin-azure-powershell.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -132,7 +132,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true
+          options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true&description_lines_count=2
           path: profile/pin-arm-powershell-codes.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -156,7 +156,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-pgpilot-operator-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -164,7 +164,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-freeswitch-iac-platform-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -172,7 +172,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-terraform-provider-freeswitch-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -180,7 +180,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-kube-freeze-operator-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -188,7 +188,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=wrapter&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=wrapter&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-wrapter-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -196,7 +196,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=platacard&repo=terraform-provider-superset&hide_border=true&theme=github_dark
+          options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-terraform-provider-superset-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -204,7 +204,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-python-general-public-codes-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -212,7 +212,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=istio-examples&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=istio-examples&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-istio-examples-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -220,7 +220,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-aws-cli-bash-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -228,7 +228,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-gcp-bash-codes-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -236,7 +236,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-bash-nextgen-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -244,7 +244,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-azure-powershell-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -252,7 +252,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true&theme=github_dark
+          options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-arm-powershell-codes-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
