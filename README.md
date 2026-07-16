@@ -37,42 +37,42 @@
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/pgpilot-operator">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=pgpilot-operator&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true" width="49%" alt="pgpilot-operator">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-pgpilot-operator-dark.svg">
+      <img src="./profile/pin-pgpilot-operator.svg" width="49%" alt="pgpilot-operator">
     </picture>
   </a>
   <a href="https://github.com/jamalshahverdiev/freeswitch-iac-platform">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=freeswitch-iac-platform&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true" width="49%" alt="freeswitch-iac-platform">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-freeswitch-iac-platform-dark.svg">
+      <img src="./profile/pin-freeswitch-iac-platform.svg" width="49%" alt="freeswitch-iac-platform">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/terraform-provider-freeswitch">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=terraform-provider-freeswitch&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true" width="49%" alt="terraform-provider-freeswitch">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-freeswitch-dark.svg">
+      <img src="./profile/pin-terraform-provider-freeswitch.svg" width="49%" alt="terraform-provider-freeswitch">
     </picture>
   </a>
   <a href="https://github.com/jamalshahverdiev/kube-freeze-operator">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=kube-freeze-operator&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true" width="49%" alt="kube-freeze-operator">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-kube-freeze-operator-dark.svg">
+      <img src="./profile/pin-kube-freeze-operator.svg" width="49%" alt="kube-freeze-operator">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/wrapter">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=wrapter&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=wrapter&hide_border=true" width="49%" alt="wrapter">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-wrapter-dark.svg">
+      <img src="./profile/pin-wrapter.svg" width="49%" alt="wrapter">
     </picture>
   </a>
   <a href="https://github.com/platacard/terraform-provider-superset">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=platacard&repo=terraform-provider-superset&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=platacard&repo=terraform-provider-superset&hide_border=true" width="49%" alt="terraform-provider-superset">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-superset-dark.svg">
+      <img src="./profile/pin-terraform-provider-superset.svg" width="49%" alt="terraform-provider-superset">
     </picture>
   </a>
 </p>
@@ -82,14 +82,14 @@
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/python-general-public-codes">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=python-general-public-codes&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true" width="49%" alt="python-general-public-codes">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-python-general-public-codes-dark.svg">
+      <img src="./profile/pin-python-general-public-codes.svg" width="49%" alt="python-general-public-codes">
     </picture>
   </a>
   <a href="https://github.com/jamalshahverdiev/istio-examples">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=istio-examples&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=istio-examples&hide_border=true" width="49%" alt="istio-examples">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-istio-examples-dark.svg">
+      <img src="./profile/pin-istio-examples.svg" width="49%" alt="istio-examples">
     </picture>
   </a>
 </p>
@@ -99,22 +99,22 @@
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/aws-cli-bash">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=aws-cli-bash&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true" width="49%" alt="aws-cli-bash">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-aws-cli-bash-dark.svg">
+      <img src="./profile/pin-aws-cli-bash.svg" width="49%" alt="aws-cli-bash">
     </picture>
   </a>
   <a href="https://github.com/jamalshahverdiev/gcp-bash-codes">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=gcp-bash-codes&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true" width="49%" alt="gcp-bash-codes">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-gcp-bash-codes-dark.svg">
+      <img src="./profile/pin-gcp-bash-codes.svg" width="49%" alt="gcp-bash-codes">
     </picture>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/bash-nextgen">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=bash-nextgen&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=bash-nextgen&hide_border=true" width="49%" alt="bash-nextgen">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-bash-nextgen-dark.svg">
+      <img src="./profile/pin-bash-nextgen.svg" width="49%" alt="bash-nextgen">
     </picture>
   </a>
 </p>
@@ -124,14 +124,14 @@
 <p align="center">
   <a href="https://github.com/jamalshahverdiev/azure-powershell">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=azure-powershell&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=azure-powershell&hide_border=true" width="49%" alt="azure-powershell">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-azure-powershell-dark.svg">
+      <img src="./profile/pin-azure-powershell.svg" width="49%" alt="azure-powershell">
     </picture>
   </a>
   <a href="https://github.com/jamalshahverdiev/arm-powershell-codes">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=arm-powershell-codes&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true" width="49%" alt="arm-powershell-codes">
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/pin-arm-powershell-codes-dark.svg">
+      <img src="./profile/pin-arm-powershell-codes.svg" width="49%" alt="arm-powershell-codes">
     </picture>
   </a>
 </p>
@@ -156,12 +156,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=jamalshahverdiev&count_private=true&show_icons=true&hide_border=true" height="180" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats.svg" height="180" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&langs_count=10&layout=compact&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalshahverdiev&langs_count=10&layout=compact&hide_border=true" height="180" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs.svg" height="180" alt="Top languages">
   </picture>
 </p>
 
