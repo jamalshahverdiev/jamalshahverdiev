@@ -141,10 +141,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="./metrics.svg" width="70%" alt="Metrics dashboard">
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -162,15 +158,6 @@
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random dev quote">
-  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="footer"/>
