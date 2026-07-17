@@ -3,6 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Jamal%20Shahverdiev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20Kubernetes%20%C2%B7%20Go&descSize=18&descAlignY=55" width="100%" alt="header"/>
 
+<!-- Rotating Earth: Wikimedia Commons, CC BY-SA 3.0 -->
+<img src="./profile/earth.gif" width="150" alt="Rotating Earth"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Site+Reliability+Engineer;DevOps+Engineer;Kubernetes+%7C+Terraform+%7C+Go;Automate+all+the+things!)](https://www.youtube.com/c/JamalShahverdiev)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/jamalshahverdiev)
