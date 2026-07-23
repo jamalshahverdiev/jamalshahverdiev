@@ -72,14 +72,6 @@ jobs:
           path: profile/pin-wrapter.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Pin terraform-provider-superset
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2
-          path: profile/pin-terraform-provider-superset.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-
       - name: Pin python-general-public-codes
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -190,14 +182,6 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=wrapter&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-wrapter-dark.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Pin terraform-provider-superset-dark
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2&theme=github_dark
-          path: profile/pin-terraform-provider-superset-dark.svg
           token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin python-general-public-codes-dark
