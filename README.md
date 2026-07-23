@@ -46,9 +46,7 @@
   <a href="https://github.com/jamalshahverdiev/kube-freeze-operator"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-kube-freeze-operator-dark.svg"><img src="./profile/pin-kube-freeze-operator.svg" width="49%" alt="kube-freeze-operator"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jamalshahverdiev/wrapter"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-wrapter-dark.svg"><img src="./profile/pin-wrapter.svg" width="49%" alt="wrapter"></picture></a>
-  <a href="https://github.com/platacard/terraform-provider-superset"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-terraform-provider-superset-dark.svg"><img src="./profile/pin-terraform-provider-superset.svg" width="49%" alt="terraform-provider-superset"></picture></a>
-</p>
+  <a href="https://github.com/jamalshahverdiev/wrapter"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/pin-wrapter-dark.svg"><img src="./profile/pin-wrapter.svg" width="49%" alt="wrapter"></picture></a></p>
 
 #### 🐍 Python
 
