@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=jamalshahverdiev&count_private=true&show_icons=true&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Top languages card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=jamalshahverdiev&langs_count=10&layout=compact&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin pgpilot-operator
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,7 +38,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true&description_lines_count=2
           path: profile/pin-pgpilot-operator.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin freeswitch-iac-platform
         uses: stats-organization/github-readme-stats-action@v2
@@ -46,7 +46,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true&description_lines_count=2
           path: profile/pin-freeswitch-iac-platform.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin terraform-provider-freeswitch
         uses: stats-organization/github-readme-stats-action@v2
@@ -54,7 +54,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true&description_lines_count=2
           path: profile/pin-terraform-provider-freeswitch.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin kube-freeze-operator
         uses: stats-organization/github-readme-stats-action@v2
@@ -62,7 +62,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true&description_lines_count=2
           path: profile/pin-kube-freeze-operator.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin wrapter
         uses: stats-organization/github-readme-stats-action@v2
@@ -70,7 +70,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=wrapter&hide_border=true&description_lines_count=2
           path: profile/pin-wrapter.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin terraform-provider-superset
         uses: stats-organization/github-readme-stats-action@v2
@@ -78,7 +78,7 @@ jobs:
           card: pin
           options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2
           path: profile/pin-terraform-provider-superset.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin python-general-public-codes
         uses: stats-organization/github-readme-stats-action@v2
@@ -86,7 +86,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true&description_lines_count=2
           path: profile/pin-python-general-public-codes.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin istio-examples
         uses: stats-organization/github-readme-stats-action@v2
@@ -94,7 +94,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=istio-examples&hide_border=true&description_lines_count=2
           path: profile/pin-istio-examples.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin aws-cli-bash
         uses: stats-organization/github-readme-stats-action@v2
@@ -102,7 +102,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true&description_lines_count=2
           path: profile/pin-aws-cli-bash.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin gcp-bash-codes
         uses: stats-organization/github-readme-stats-action@v2
@@ -110,7 +110,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true&description_lines_count=2
           path: profile/pin-gcp-bash-codes.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin bash-nextgen
         uses: stats-organization/github-readme-stats-action@v2
@@ -118,7 +118,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true&description_lines_count=2
           path: profile/pin-bash-nextgen.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin azure-powershell
         uses: stats-organization/github-readme-stats-action@v2
@@ -126,7 +126,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true&description_lines_count=2
           path: profile/pin-azure-powershell.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin arm-powershell-codes
         uses: stats-organization/github-readme-stats-action@v2
@@ -134,7 +134,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true&description_lines_count=2
           path: profile/pin-arm-powershell-codes.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Stats card-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -142,7 +142,7 @@ jobs:
           card: stats
           options: username=jamalshahverdiev&count_private=true&show_icons=true&hide_border=true&theme=github_dark
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Top languages card-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -150,7 +150,7 @@ jobs:
           card: top-langs
           options: username=jamalshahverdiev&langs_count=10&layout=compact&hide_border=true&theme=github_dark
           path: profile/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin pgpilot-operator-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -158,7 +158,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=pgpilot-operator&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-pgpilot-operator-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin freeswitch-iac-platform-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -166,7 +166,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=freeswitch-iac-platform&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-freeswitch-iac-platform-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin terraform-provider-freeswitch-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -174,7 +174,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=terraform-provider-freeswitch&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-terraform-provider-freeswitch-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin kube-freeze-operator-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -182,7 +182,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=kube-freeze-operator&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-kube-freeze-operator-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin wrapter-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -190,7 +190,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=wrapter&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-wrapter-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin terraform-provider-superset-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -198,7 +198,7 @@ jobs:
           card: pin
           options: username=platacard&repo=terraform-provider-superset&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-terraform-provider-superset-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin python-general-public-codes-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -206,7 +206,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=python-general-public-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-python-general-public-codes-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin istio-examples-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -214,7 +214,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=istio-examples&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-istio-examples-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin aws-cli-bash-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -222,7 +222,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=aws-cli-bash&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-aws-cli-bash-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin gcp-bash-codes-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -230,7 +230,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=gcp-bash-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-gcp-bash-codes-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin bash-nextgen-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -238,7 +238,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=bash-nextgen&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-bash-nextgen-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin azure-powershell-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -246,7 +246,7 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=azure-powershell&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-azure-powershell-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Pin arm-powershell-codes-dark
         uses: stats-organization/github-readme-stats-action@v2
@@ -254,7 +254,15 @@ jobs:
           card: pin
           options: username=jamalshahverdiev&repo=arm-powershell-codes&hide_border=true&description_lines_count=2&theme=github_dark
           path: profile/pin-arm-powershell-codes-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Discard broken cards
+        run: |
+          broken=$(grep -l "Something went wrong" profile/*.svg || true)
+          if [ -n "$broken" ]; then
+            echo "Reverting broken cards:"; echo "$broken"
+            echo "$broken" | xargs git checkout --
+          fi
 
       - name: Commit cards
         run: |
